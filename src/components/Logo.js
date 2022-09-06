@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import styled from 'styled-components'
-import walletLogo from "../assets/walletlogo.png"
+import walletLogo from "../assets/walletlogonew.png"
 const LogoText = styled.h1`
 
 font-size: 2em;
