@@ -124,26 +124,8 @@ What is Balance Wallet"
           >
             A Crypto Wallet & Gateway To Blockchain Apps
           </Accordion>
-          <Accordion
-            ScrollTrigger={ScrollTrigger}
-            title="WHAT ARE THE Balance?
-"
-          >
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore
-            deserunt consequatur quisquam maxime molestias dolores ipsum,
-            exercitationem vel sint quidem aliquam modi quis impedit corporis
-            unde inventore fugiat provident in.
-          </Accordion>
-          <Accordion
-            ScrollTrigger={ScrollTrigger}
-            title="WHAT IS THE FUSION PROCESS?
-"
-          >
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel enim
-            veritatis iusto officia. Exercitationem, ducimus reiciendis. Rem,
-            maxime, similique neque minus aliquam dolore doloremque laboriosam,
-            facilis quibusdam unde sint officia.
-          </Accordion>
+         
+         
         </Box>
       </Container>
     </Section>

@@ -14,7 +14,7 @@ import img10 from '../../assets/partners/okx.png';
 import ETH from '../../assets/icons8-ethereum-48.png'
 
 const Section = styled.section`
-min-height: 100vh;
+min-height: 40vh;
 width: 100vw;
 background-color: ${props => props.theme.text};
 display: flex;
@@ -166,24 +166,7 @@ const Showcase = () => {
 <Title>PARTNERS</Title>
 <Section id="showcase">
   
-    <Row direction="none" ref={Row1Ref}>
-      <NftItem img={img1}  number={852} price={1}   passRef = {Row1Ref} />
-      <NftItem img={img2}  number={123} price={1.2}   passRef = {Row1Ref} />
-      <NftItem img={img3}  number={456} price={2.5}   passRef = {Row1Ref} />
-      <NftItem img={img4}  number={666} price={3.5}   passRef = {Row1Ref} />
-      <NftItem img={img5}  number={452} price={4.7}   passRef = {Row1Ref} />
-
-
-    </Row>
-    <Row direction="reverse" ref={Row2Ref}>
-    <NftItem img={img6}  number={888} price={1.2}   passRef = {Row2Ref} />
-    <NftItem img={img7}  number={211} price={3.2}   passRef = {Row2Ref} />
-    <NftItem img={img8}  number={455} price={1.8}   passRef = {Row2Ref} />
-    <NftItem img={img9}  number={456} price={5.1}   passRef = {Row2Ref} />
-    <NftItem img={img10}  number={865} price={3.7}   passRef = {Row2Ref} />
-
-
-    </Row>
+   
     </Section>
 </>
   )

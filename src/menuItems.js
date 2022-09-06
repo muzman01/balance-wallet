@@ -24,11 +24,11 @@ export const menuItems = [
       },
       {
         title: 'Get Support',
-        url: '',
+        url: 'mailto:suppurt@balancenetwork.io',
       },
       {
         title: 'Community',
-        url: '',
+        url: 'https://t.me/BalanceNetwork',
       },
     ],
   },
@@ -42,7 +42,7 @@ export const menuItems = [
       },
       {
         title: 'Careers',
-        url: '',
+        url: 'mailto:suppurt@balancenetwork.io',
       },
       {
         title: 'Blog',
@@ -56,15 +56,15 @@ export const menuItems = [
     submenu: [
       {
         title: 'Developer Docs',
-        url: '',
+        url: 'https://docsmainpage.vercel.app/',
       },
       {
-        title: 'Snaps',
-        url: '',
+        title: 'Privacy Policy',
+        url: 'https://docsmainpage.vercel.app/guide/balancewallet-privacy-policy.html',
       },
       {
-        title: 'Flask',
-        url: '',
+        title: 'Terms Of Use',
+        url: 'https://docsmainpage.vercel.app/guide/balancewallet-term-of-use.html#intershore-chambers-genova-place-3rd-floor-road-town-tortola',
       },
     ],
   },

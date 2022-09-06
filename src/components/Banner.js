@@ -150,7 +150,7 @@ const Banner = () => {
         </ImgContainer>
         <Title>Join the  <br /> Balance Network  </Title>
         <BtnContainer>
-        <a href="https://www.discord.com" aria-label={"Join Now"} target="_blank" rel="noreferrer" >
+        <a href="https://discord.com/invite/S9397zV3ay" aria-label={"Join Now"} target="_blank" rel="noreferrer" >
         <JoiNow>
             Join Now
         </JoiNow>
